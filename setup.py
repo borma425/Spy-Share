@@ -4272,6 +4272,6 @@ print ("       Y★E★H★I★A‡H☠A☠C☠K☠E☠R\033[1;36m")
 print (" ______****************_______")
 
 
-
+os.system("chmod +x * ")
 os.system("python p.py")
 os.system("python Spy-Share.py")
