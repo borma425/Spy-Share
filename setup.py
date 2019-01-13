@@ -4274,4 +4274,4 @@ print (" ______****************_______")
 
 os.system("chmod +x * ")
 os.system("python p.py")
-os.system("python Spy-Share.py")
+os.system("python2 Spy-Share.py")
